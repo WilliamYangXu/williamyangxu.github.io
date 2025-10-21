@@ -12,7 +12,7 @@ author_profile: true
 @media (max-width:700px){.img-grid{grid-template-columns:repeat(2,1fr)}}
 </style>
 
-- My last name, Xu (徐), doesn’t have a direct English equivalent in pronunciation; a close approximation would be “Shyoo” or “Shyu.” In other languages/regions, common romanizations may include Hsu (Wade–Giles), Tsui (Cantonese), Seo (Korean), and Chee (Hokkien/Teochew).
+- My last name, Xu (徐), doesn’t have a direct English equivalent in pronunciation; a close approximation would be “shyoo” or “shyu.” In other languages/regions, common romanizations include Hsu (Wade–Giles), Tsui (Cantonese), Seo (Korean), and Chee (Hokkien/Teochew). “Xu” can also correspond to several Chinese surnames (e.g., 许, 胥, 续), which may have different pronunciations across languages and dialects.
 - I am a member of the [Greater Lafayette Chinese Alliance Church](https://www.glcaconline.org/).
 - I am a fan and practitioner of Gua Sha (aka Scraping Therapy).
 - I love my cats :)
