@@ -5,7 +5,7 @@ permalink: /publications/
 toc: false
 ---
 
-*Here is my list of publications in reverse reverse-chronological order with \* denoting equal contribution*
+*Here is my list of publications in reverse reverse-chronological order with \* denoting equal contribution.*
 
 
 ## Preprints

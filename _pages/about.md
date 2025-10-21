@@ -17,10 +17,10 @@ My research centers on designing provably reliable algorithms for decision-makin
 
 
 ## Contact  
-- **Email:** {Last name}+{1720}@purdue.edu  
+- **Email:** xu1720 at purdue dot edu  
 - **Office:** Grissom Hall 265-A
 
 
 ## Recent News
 - **Oct 2025:** Recieved NeurIPS 2025 Financial Aid Award.
-- **Sept 2025:** Will present an extended abstract at the Purdue University PQAI Workshop.
+- **Sept 2025:** Will serve as session chair at the Purdue University PQAI Workshop.
