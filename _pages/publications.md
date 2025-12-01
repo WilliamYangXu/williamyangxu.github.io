@@ -5,7 +5,7 @@ permalink: /publications/
 toc: false
 ---
 
-*Here is my list of publications in reverse reverse-chronological order with \* denoting equal contribution.*
+*Here is my list of publications in reverse-chronological order with \* denoting equal contribution.*
 
 
 ## Preprints
@@ -20,10 +20,10 @@ toc: false
 ## Publications
 
 - **Finite-sample analysis of policy evaluation for robust average reward reinforcement learning.**  
-  **Yang Xu**, Washim Uddin Mondal, Vaneet Aggarwal. *NeurIPS 2025 (to appear).*  [PDF](https://arxiv.org/pdf/2502.16816)
+  **Yang Xu**, Washim Uddin Mondal, Vaneet Aggarwal. *NeurIPS 2025.*  [PDF](https://arxiv.org/pdf/2502.16816)
 
 - **Global Convergence for Average Reward Constrained MDPs with Primal-Dual Actor Critic Algorithm.**  
-  **Yang Xu\***, Swetha Ganesh\*, Washim Uddin Mondal, Qinbo Bai, Vaneet Aggarwal. *NeurIPS 2025 (to appear).*  [PDF](https://arxiv.org/abs/2505.15138)
+  **Yang Xu\***, Swetha Ganesh\*, Washim Uddin Mondal, Qinbo Bai, Vaneet Aggarwal. *NeurIPS 2025.*  [PDF](https://arxiv.org/abs/2505.15138)
 
 - **Accelerating Quantum Reinforcement Learning with a Quantum Natural Policy Gradient Based Approach.**  
   **Yang Xu**, Vaneet Aggarwal. *ICML 2025.*  [PDF](https://arxiv.org/abs/2310.11684)
