@@ -22,6 +22,6 @@ My research centers on designing provably reliable algorithms for decision-makin
 
 
 ## Recent News
-- **Nov 2025:** Passed the PhD preliminary exam.
+- **Nov 2025:** Passed the PhD preliminary exam, which is typically completed at least two semesters before the defense.
 - **Oct 2025:** Recieved NeurIPS 2025 Financial Aid Award.
 - **Sept 2025:** Will serve as a session chair at the Purdue University PQAI Workshop 2025.
