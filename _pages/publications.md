@@ -10,6 +10,11 @@ toc: false
 
 ## Preprints
 
+
+- **Stabilizing Fixed-Point Iteration for Markov Chain Poisson Equations.**  
+  **Yang Xu**, Vaneet Aggarwal. arXiv:2602.00474, 2026.  [PDF](https://arxiv.org/abs/2506.07040)
+
+
 - **Efficient Q-Learning and Actor–Critic Methods for Robust Average-Reward Reinforcement Learning.**  
   **Yang Xu**, Swetha Ganesh, Vaneet Aggarwal. arXiv:2506.07040, 2025.  [PDF](https://arxiv.org/abs/2506.07040)
 
