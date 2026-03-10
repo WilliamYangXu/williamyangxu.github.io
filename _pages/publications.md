@@ -10,6 +10,9 @@ toc: false
 
 ## Preprints
 
+- **Don't Freeze, Don't Crash: Extending the Safe Operating Range of Neural Navigation in Dense Crowds.**  
+  Jiefu Zhang, **Yang Xu**, Vaneet Aggarwal. arXiv:2603.06729, 2026.  [PDF](https://arxiv.org/pdf/2603.06729)
+  
 
 - **Stabilizing Fixed-Point Iteration for Markov Chain Poisson Equations.**  
   **Yang Xu**, Vaneet Aggarwal. arXiv:2602.00474, 2026.  [PDF](https://arxiv.org/abs/2602.00474)
