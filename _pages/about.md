@@ -13,7 +13,7 @@ redirect_from:
 I am a fourth-year PhD candidate in [Purdue University’s Edwardson School of Industrial Engineering](https://engineering.purdue.edu/IE), advised by [Prof. Vaneet Aggarwal](https://web.ics.purdue.edu/~vaneet/). I completed an M.S. in [Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at Purdue in 2025 (en route to my PhD), and I earned a B.E. in Electrical Engineering from [The Chinese University of Hong Kong, Shenzhen](https://sse.cuhk.edu.cn/en/page/539) in 2022.
 
 
-My research centers on designing provably reliable algorithms for decision-making in stochastic systems; right now I’m focused on reinforcement learning and planning. My CV can be found [here](https://williamyangxu.github.io/files/William_Yang_Xu_CV.pdf).
+My research focuses on the theory and applications of decision-making and performance evaluation in stochastic systems. I have worked on several projects involving the theoretical analysis of reinforcement learning algorithms. I am currently interested in robotic applications and rigorous methods for evaluating learning-based systems. My CV can be found [here](https://williamyangxu.github.io/files/William_Yang_Xu_CV.pdf).
 
 
 ## Contact  
