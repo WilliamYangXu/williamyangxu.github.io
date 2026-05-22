@@ -36,7 +36,7 @@ toc: false
 
 ## Publications
 
-- **Finite-sample analysis of policy evaluation for robust average reward reinforcement learning.**  
+- **Finite-Sample Analysis of Policy Evaluation for Robust Average Reward Reinforcement Learning.**  
   **Yang Xu**, Washim Uddin Mondal, Vaneet Aggarwal. *NeurIPS 2025.*  [PDF](https://arxiv.org/pdf/2502.16816)
 
 - **Global Convergence for Average Reward Constrained MDPs with Primal-Dual Actor Critic Algorithm.**  
@@ -55,8 +55,7 @@ toc: false
   Jiayu Chen, Bhargav Ganguly, **Yang Xu**, Yongsheng Mei, Tian Lan, Vaneet Aggarwal. *TMLR* 2024. [PDF](https://openreview.net/pdf?id=Mm2cMDl9r5)
   
 
-
-- **Transformer empowered CSI feedback for massive MIMO systems.**  
+- **Transformer Empowered CSI Feedback for Massive MIMO Systems.**  
   **Yang Xu**, Mingqi Yuan, Man-On Pun. *IEEE WOCC 2021.*  [PDF](https://ieeexplore.ieee.org/abstract/document/9602863)
   
 
