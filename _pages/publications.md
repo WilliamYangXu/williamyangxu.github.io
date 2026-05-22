@@ -11,7 +11,8 @@ toc: false
 ## Preprints
 
 
-
+- **Core-Halo Decomposition: Decentralizing Large-Scale Fixed-Point Problems.**  
+   Haixiang Sun\*, **Yang Xu\***, Jiefu Zhang, Xudong Wu, Zihan Zhou, Jun He, Jiayu Chen. arXiv:2605.08681, 2026.  [PDF](https://arxiv.org/pdf/2605.08681)
 
   
 - **Towards Reliable LLM Evaluation: Correcting the Winner's Curse in Adaptive Benchmarking.**  
