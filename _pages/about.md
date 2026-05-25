@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <!-- 🔴 Callout line (big, red) -->
-**I am currently on the job market and seeking industry research and postdoctoral positions.**{: .notice--danger}
+**I am currently seeking full-time research opportunities in industry, as well as postdoctoral positions.**{: .notice--danger}
 ## About me
 I am a fourth-year PhD candidate in [Purdue University’s Edwardson School of Industrial Engineering](https://engineering.purdue.edu/IE), advised by [Prof. Vaneet Aggarwal](https://web.ics.purdue.edu/~vaneet/). I completed an M.S. in [Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at Purdue in 2025 (en route to my PhD), and I earned a B.E. in Electrical Engineering from [The Chinese University of Hong Kong, Shenzhen](https://sse.cuhk.edu.cn/en/page/539) in 2022.
 
