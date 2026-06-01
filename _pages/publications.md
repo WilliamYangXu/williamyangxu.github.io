@@ -12,11 +12,11 @@ toc: false
 
 
 - **Core-Halo Decomposition: Decentralizing Large-Scale Fixed-Point Problems.**  
-   Haixiang Sun\*, **Yang Xu\***, Jiefu Zhang, Xudong Wu, Zihan Zhou, Jun He, Jiayu Chen. arXiv:2605.08681, 2026.  [PDF](https://arxiv.org/pdf/2605.08681)
+   Haixiang Sun\*, **Yang Xu\***, Jiefu Zhang, Xudong Wu, Jun He, Jiayu Chen. arXiv:2605.08681, 2026.  [PDF](https://arxiv.org/pdf/2605.08681)
 
   
 - **Towards Reliable LLM Evaluation: Correcting the Winner's Curse in Adaptive Benchmarking.**  
-  **Yang Xu\***, Jiefu Zhang\*, Haixiang Sun, Zihan Zhou, Tianyu Cao, Vaneet Aggarwal. arXiv:2605.05973, 2026.  [PDF](https://arxiv.org/pdf/2605.05973)
+  **Yang Xu\***, Jiefu Zhang\*, Haixiang Sun, Tianyu Cao, Vaneet Aggarwal. arXiv:2605.05973, 2026.  [PDF](https://arxiv.org/pdf/2605.05973)
   
 
 - **Don't Freeze, Don't Crash: Extending the Safe Operating Range of Neural Navigation in Dense Crowds.**  
@@ -27,14 +27,13 @@ toc: false
   **Yang Xu**, Vaneet Aggarwal. arXiv:2602.00474, 2026.  [PDF](https://arxiv.org/abs/2602.00474)
 
 
-- **Efficient Q-Learning and Actor–Critic Methods for Robust Average-Reward Reinforcement Learning.**  
-  **Yang Xu**, Swetha Ganesh, Vaneet Aggarwal. arXiv:2506.07040, 2025.  [PDF](https://arxiv.org/abs/2506.07040)
-
-
 ---
 
 
 ## Publications
+
+- **Efficient Q-Learning and Actor–Critic Methods for Robust Average-Reward Reinforcement Learning.**  
+  **Yang Xu**, Swetha Ganesh, Vaneet Aggarwal. *UAI 2026 (To Appear).*   [PDF](https://arxiv.org/abs/2506.07040)
 
 - **Finite-Sample Analysis of Policy Evaluation for Robust Average Reward Reinforcement Learning.**  
   **Yang Xu**, Washim Uddin Mondal, Vaneet Aggarwal. *NeurIPS 2025.*  [PDF](https://arxiv.org/pdf/2502.16816)
