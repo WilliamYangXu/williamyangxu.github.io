@@ -12,11 +12,11 @@ toc: false
 
 
 - **Core-Halo Decomposition: Decentralizing Large-Scale Fixed-Point Problems.**  
-   Haixiang Sun\*, **Yang Xu\***, Jiefu Zhang, Xudong Wu, Jun He, Jiayu Chen. arXiv:2605.08681, 2026.  [PDF](https://arxiv.org/pdf/2605.08681)
+   Haixiang Sun\*, **Yang Xu\***, Jiefu Zhang, Xudong Wu, Zihan Zhou Jun He, Jiayu Chen. arXiv:2605.08681, 2026.  [PDF](https://arxiv.org/pdf/2605.08681)
 
   
 - **Towards Reliable LLM Evaluation: Correcting the Winner's Curse in Adaptive Benchmarking.**  
-  **Yang Xu\***, Jiefu Zhang\*, Haixiang Sun, Tianyu Cao, Vaneet Aggarwal. arXiv:2605.05973, 2026.  [PDF](https://arxiv.org/pdf/2605.05973)
+  **Yang Xu\***, Jiefu Zhang\*, Haixiang Sun, Zihan Zhou, Tianyu Cao, Vaneet Aggarwal. arXiv:2605.05973, 2026.  [PDF](https://arxiv.org/pdf/2605.05973)
   
 
 - **Don't Freeze, Don't Crash: Extending the Safe Operating Range of Neural Navigation in Dense Crowds.**  
