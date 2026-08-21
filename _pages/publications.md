@@ -33,7 +33,7 @@ toc: false
 ## Publications
 
 - **Efficient Q-Learning and Actor–Critic Methods for Robust Average-Reward Reinforcement Learning.**  
-  **Yang Xu**, Swetha Ganesh, Vaneet Aggarwal. *UAI 2026 (To Appear).*   [PDF](https://arxiv.org/abs/2506.07040)
+  **Yang Xu**, Swetha Ganesh, Vaneet Aggarwal. *UAI 2026.*   [PDF](https://arxiv.org/abs/2506.07040)
 
 - **Finite-Sample Analysis of Policy Evaluation for Robust Average Reward Reinforcement Learning.**  
   **Yang Xu**, Washim Uddin Mondal, Vaneet Aggarwal. *NeurIPS 2025.*  [PDF](https://arxiv.org/pdf/2502.16816)
