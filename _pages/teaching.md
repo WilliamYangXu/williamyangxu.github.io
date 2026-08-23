@@ -8,6 +8,6 @@ author_profile: true
 **Teaching Assistant, Purdue University**
 
 - **MA 165: Calculus I** — Fall 2023  
-- **IE 230: Probability and Statistics in Engineering I** — Fall 2024, Fall 2025  
+- **IE 230: Probability and Statistics in Engineering I** — Fall 2024, Fall 2025, Fall 2026
 - **IE 330: Probability and Statistics in Engineering II** — Spring 2026 
 - **IE 590 ITO: Introduction to Optimization** — Spring 2025
