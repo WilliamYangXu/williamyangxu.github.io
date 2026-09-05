@@ -11,7 +11,7 @@ toc: false
 ## Preprints
 
 - **Selection-Aware Stress Testing for Interactive Agents.**  
-   **Yang Xu\***, **Chenang Li\***, Jiefu Zhang, Haixiang Sun, Zhou Li, Vaneet Aggarawl. arXiv:2608.30916, 2026.  [PDF](https://arxiv.org/pdf/2608.30916)
+   **Yang Xu\***, Chenang Li\*, Jiefu Zhang, Haixiang Sun, Zhou Li, Vaneet Aggarawl. arXiv:2608.30916, 2026.  [PDF](https://arxiv.org/pdf/2608.30916)
   
 
 - **Core-Halo Decomposition: Decentralizing Large-Scale Fixed-Point Problems.**  
