@@ -10,14 +10,17 @@ toc: false
 
 ## Preprints
 
+- **CARVE: Breaking Data Barriers in Chip Placement by Harnessing Reusable Expertise.**  
+   Jiefu Zhang, Haixiang Sun, **Yang Xu**, Vaneet Aggarwal, Zishen Wan. arXiv:2609.33106.  [PDF](https://arxiv.org/pdf/2609.33106) 
+
+- **Reliable Replay through Spatial Coherence in Online Continual Learning.**  
+   Haixiang Sun, Jiefu Zhang, Yinghao He, **Yang Xu**, Vaneet Aggarwal, Bharat Bhargava, Andrew L. Liu. arXiv:2609.33725, 2026.  [PDF](https://arxiv.org/pdf/2609.33725) 
+
 - **Selection-Aware Stress Testing for Interactive Agents.**  
    **Yang Xu\***, Chenang Li\*, Jiefu Zhang, Haixiang Sun, Zhou Li, Vaneet Aggarwal. arXiv:2608.30916, 2026.  [PDF](https://arxiv.org/pdf/2608.30916)
-  
 
 - **Core-Halo Decomposition: Decentralizing Large-Scale Fixed-Point Problems.**  
    Haixiang Sun\*, **Yang Xu\***, Jiefu Zhang, Xudong Wu, Zihan Zhou, Jun He, Jiayu Chen. arXiv:2605.08681, 2026.  [PDF](https://arxiv.org/pdf/2605.08681)
-
-  
 
 - **Don't Freeze, Don't Crash: Extending the Safe Operating Range of Neural Navigation in Dense Crowds.**  
   Jiefu Zhang, **Yang Xu**, Vaneet Aggarwal. arXiv:2603.06729, 2026.  [PDF](https://arxiv.org/pdf/2603.06729)
