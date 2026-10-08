@@ -22,6 +22,7 @@ My research focuses on the theory and applications of decision-making and perfor
 
 
 ## Recent News
+- **Oct 2026:** Recognized as Top Reviewer for NeurIPS 2026.
 - **Apr 2026:** Will join Amazon as an Applied Scientist Intern this summer.
 - **Feb 2026:** Will give a talk at the Purdue Theoretical Computer Science Seminar.
 - **Nov 2025:** Passed the PhD preliminary exam, which is typically completed at least two semesters before the defense.
