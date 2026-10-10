@@ -6,8 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Notice: This website is no longer being updated.**
-{: .notice--danger}
+<div style="
+  margin: 0 0 1.5em;
+  padding: 0.8em 1em;
+  border-left: 4px solid #c49035;
+  border-radius: 4px;
+  background-color: #fff8e8;
+  color: #654e25;
+  line-height: 1.5;
+">
+  <strong>Notice: This website is no longer being updated.</strong>
+</div>
 
 <!-- 🔴 Callout line (big, red) -->
 **I am currently seeking full-time research opportunities in industry, as well as postdoctoral positions.**{: .notice--danger}
