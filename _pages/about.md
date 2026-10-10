@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+**Notice: This website is no longer being updated.**
+{: .notice--danger}
 
 <!-- 🔴 Callout line (big, red) -->
 **I am currently seeking full-time research opportunities in industry, as well as postdoctoral positions.**{: .notice--danger}
