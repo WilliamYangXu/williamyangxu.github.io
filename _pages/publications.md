@@ -35,7 +35,7 @@ toc: false
 ## Publications
 
 - **Towards Reliable LLM Evaluation: Correcting the Winner's Curse in Adaptive Benchmarking.**  
-  **Yang Xu\***, Jiefu Zhang\*, Haixiang Sun, Zihan Zhou, Tianyu Cao, Vaneet Aggarwal. *NeurIPS 2026.*  [PDF](https://arxiv.org/pdf/2605.05973)
+  Jiefu Zhang\*, **Yang Xu\***, Haixiang Sun, Zihan Zhou, Tianyu Cao, Vaneet Aggarwal. *NeurIPS 2026.*  [PDF](https://arxiv.org/pdf/2605.05973)
 
 - **Persistent-Transient Policy Evaluation for Markov Chains via Minimal Peripheral Quotients.**  
   **Yang Xu**, Vaneet Aggarwal. *NeurIPS 2026.*  [PDF](https://arxiv.org/abs/2602.00474)
