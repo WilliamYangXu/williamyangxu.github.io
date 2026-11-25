@@ -7,6 +7,7 @@ The homepage uses a compact research layout inspired by [Jon Barron's homepage](
 - Publications use a text-only layout with authors, venue, year, a paper link, and a short description.
 - Profile links live in `_includes/research-links.html`. The CV link currently uses the existing `files/William_Yang_Xu_resume.pdf`.
 - Styles live in `assets/css/research.css`. The layout is `_layouts/research.html`.
+- Dark mode follows the system preference until the visitor chooses a theme with the switch. The choice is saved locally by `assets/js/research-theme.js`; printing always uses light colors.
 - `_config.yml` excludes the Personal page, cat images, and unused publication/CV templates from the generated site. Their source files remain in the repository.
 
 ## Original template documentation
