@@ -1,3 +1,16 @@
+# William Yang Xu — homepage
+
+The homepage uses a compact research layout inspired by [Jon Barron's homepage](https://jonbarron.info/), within the existing Jekyll site.
+
+- Edit the introduction in `_pages/about.md` and the short biography in `_pages/bio.md`.
+- Edit publications in `_data/papers.yml`; both the homepage and `/publications/` use this list in its stored order. Summaries are short topic descriptions, not abstracts.
+- To replace a paper's placeholder, add a figure under `images/papers/`, set its `image` to `/images/papers/filename.png`, and supply descriptive `image_alt` text.
+- Profile links live in `_includes/research-links.html`. The CV link currently uses the existing `files/William_Yang_Xu_resume.pdf`.
+- Styles live in `assets/css/research.css`. The layout is `_layouts/research.html`.
+- `_config.yml` excludes the Personal page, cat images, and unused publication/CV templates from the generated site. Their source files remain in the repository.
+
+## Original template documentation
+
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 

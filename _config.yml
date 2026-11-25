@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "William Yang Xu"
 title_separator          : "-"
 name                     : "William Yang Xu"
-description              : "PhD Student @ Purdue Industrial Engineering (Operations Research)"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : "Research in reinforcement learning, reliable evaluation, and decision-making under uncertainty."
 url                      : https://williamyangxu.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "William Yang Xu"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher in Data Science"
-  location         : "West Lafayette, Indiana, USA"
+  bio              : "Reinforcement learning and reliable evaluation"
+  location         :
   # employer         : "Red Brick University"
   uri              : # URL
   # email            : "{last name}+{1720}@purdue.edu" 
@@ -37,7 +37,7 @@ author:
   # arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=3IpmW68AAAAJ&hl=en"
   linkedin         : "yang-xu-228b9b224/"
-  github           : "https://github.com/WilliamYangXu"
+  github           :
 
   # inspire-hep      : # URL
   # impactstory      : # URL
@@ -165,6 +165,11 @@ include:
   - _pages
   - files
 exclude:
+  # Keep personal material and unused CV/publication templates out of the build.
+  - _pages/personal.md
+  - images/cats
+  - _pages/cv-json.md
+  - _publications
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

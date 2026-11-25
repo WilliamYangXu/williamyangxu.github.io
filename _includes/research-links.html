@@ -1,0 +1,9 @@
+<nav class="profile-links" aria-label="Profile links">
+  <a href="{{ '/files/William_Yang_Xu_resume.pdf' | relative_url }}">CV</a>
+  <span aria-hidden="true">/</span>
+  <a href="{{ '/bio/' | relative_url }}"{% if page.url == '/bio/' %} aria-current="page"{% endif %}>Bio</a>
+  <span aria-hidden="true">/</span>
+  <a href="{{ site.author.googlescholar | escape }}">Scholar</a>
+  <span aria-hidden="true">/</span>
+  <a href="https://www.linkedin.com/in/{{ site.author.linkedin | escape }}">LinkedIn</a>
+</nav>
