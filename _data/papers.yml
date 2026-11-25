@@ -1,4 +1,4 @@
-# Publication order is intentional. Set image and image_alt when a figure is ready.
+# Publication order is intentional. Entries use a text-only layout.
 ---
 - id: carve
   title: 'CARVE: Breaking Data Barriers in Chip Placement by Harnessing Reusable Expertise'
@@ -7,8 +7,6 @@
   year: 2026
   preprint: true
   url: https://arxiv.org/pdf/2609.33106
-  image:
-  image_alt: ''
   summary: Reusing expertise to address data limitations in chip placement.
 - id: reliable-replay
   title: Reliable Replay through Spatial Coherence in Online Continual Learning
@@ -17,8 +15,6 @@
   year: 2026
   preprint: true
   url: https://arxiv.org/pdf/2609.33725
-  image:
-  image_alt: ''
   summary: Spatial coherence for replay in online continual learning.
 - id: selection-aware-stress-testing
   title: Selection-Aware Stress Testing for Interactive Agents
@@ -27,8 +23,6 @@
   year: 2026
   preprint: true
   url: https://arxiv.org/pdf/2608.30916
-  image:
-  image_alt: ''
   summary: Stress testing interactive agents while accounting for selection.
 - id: core-halo
   title: 'Core-Halo Decomposition: Decentralizing Large-Scale Fixed-Point Problems'
@@ -37,8 +31,6 @@
   year: 2026
   preprint: true
   url: https://arxiv.org/pdf/2605.08681
-  image:
-  image_alt: ''
   summary: Decomposing large-scale fixed-point problems for decentralized computation.
 - id: neural-navigation
   title: 'Don''t Freeze, Don''t Crash: Extending the Safe Operating Range of Neural Navigation in Dense Crowds'
@@ -47,8 +39,6 @@
   year: 2026
   preprint: true
   url: https://arxiv.org/pdf/2603.06729
-  image:
-  image_alt: ''
   summary: Investigating the safe operating range of neural navigation in dense crowds.
 - id: reliable-llm-evaluation
   title: 'Towards Reliable LLM Evaluation: Correcting the Winner''s Curse in Adaptive Benchmarking'
@@ -57,8 +47,6 @@
   year: 2026
   preprint: false
   url: https://arxiv.org/pdf/2605.05973
-  image:
-  image_alt: ''
   summary: Correcting selection bias in adaptive evaluation of language models.
 - id: persistent-transient
   title: Persistent-Transient Policy Evaluation for Markov Chains via Minimal Peripheral Quotients
@@ -67,8 +55,6 @@
   year: 2026
   preprint: false
   url: https://arxiv.org/abs/2602.00474
-  image:
-  image_alt: ''
   summary: Studying persistent and transient behavior in Markov-chain policy evaluation.
 - id: robust-q-learning
   title: Efficient Q-Learning and Actor–Critic Methods for Robust Average-Reward Reinforcement Learning
@@ -77,8 +63,6 @@
   year: 2026
   preprint: false
   url: https://arxiv.org/abs/2506.07040
-  image:
-  image_alt: ''
   summary: Q-learning and actor–critic methods for robust average-reward reinforcement learning.
 - id: robust-policy-evaluation
   title: Finite-Sample Analysis of Policy Evaluation for Robust Average Reward Reinforcement Learning
@@ -87,8 +71,6 @@
   year: 2025
   preprint: false
   url: https://arxiv.org/pdf/2502.16816
-  image:
-  image_alt: ''
   summary: Finite-sample guarantees for evaluating policies under uncertainty in average-reward settings.
 - id: constrained-mdps
   title: Global Convergence for Average Reward Constrained MDPs with Primal-Dual Actor Critic Algorithm
@@ -97,8 +79,6 @@
   year: 2025
   preprint: false
   url: https://arxiv.org/abs/2505.15138
-  image:
-  image_alt: ''
   summary: Convergence analysis of primal-dual actor–critic methods for constrained decision-making.
 - id: quantum-natural-policy-gradient
   title: Accelerating Quantum Reinforcement Learning with a Quantum Natural Policy Gradient Based Approach
@@ -107,8 +87,6 @@
   year: 2025
   preprint: false
   url: https://arxiv.org/abs/2501.16243
-  image:
-  image_alt: ''
   summary: A quantum natural policy gradient approach to reinforcement learning.
 - id: quantum-regret
   title: Quantum Speedups in Regret Analysis of Infinite-Horizon Average-Reward Markov Decision Processes
@@ -117,8 +95,6 @@
   year: 2025
   preprint: false
   url: https://arxiv.org/abs/2310.11684
-  image:
-  image_alt: ''
   summary: Investigating quantum speedups in regret guarantees for infinite-horizon decision-making.
 - id: rllte
   title: 'RLLTE: Long-Term Evolution Project of Reinforcement Learning'
@@ -127,8 +103,6 @@
   year: 2025
   preprint: false
   url: https://ojs.aaai.org/index.php/AAAI/article/view/35378
-  image:
-  image_alt: ''
   summary: A software project supporting reinforcement learning research and development.
 - id: generative-offline-policy-learning
   title: 'Deep Generative Models for Offline Policy Learning: Tutorial, Survey, and Perspectives on Future Directions'
@@ -137,8 +111,6 @@
   year: 2024
   preprint: false
   url: https://openreview.net/pdf?id=Mm2cMDl9r5
-  image:
-  image_alt: ''
   summary: A tutorial and survey of deep generative models for offline policy learning.
 - id: transformer-csi
   title: Transformer Empowered CSI Feedback for Massive MIMO Systems
@@ -147,6 +119,4 @@
   year: 2021
   preprint: false
   url: https://ieeexplore.ieee.org/abstract/document/9602863
-  image:
-  image_alt: ''
   summary: Using transformers for channel state information feedback in massive MIMO systems.

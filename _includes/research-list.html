@@ -1,25 +1,14 @@
 <div class="research-list">
   {% for paper in site.data.papers %}
   <article class="paper" id="{{ paper.id }}" aria-labelledby="{{ paper.id }}-title">
-    <div class="paper-visual">
-      {% if paper.image %}
-      <img src="{{ paper.image | relative_url }}" alt="{{ paper.image_alt | escape }}" width="180" height="140" loading="lazy">
-      {% else %}
-      <div class="paper-placeholder" role="img" aria-label="Research image placeholder">
-        <svg viewBox="0 0 48 40" width="48" height="40" fill="none" aria-hidden="true">
-          <rect x="5" y="4" width="38" height="32" rx="2" stroke="currentColor" stroke-width="1.5"/>
-          <circle cx="16" cy="14" r="3" stroke="currentColor" stroke-width="1.5"/>
-          <path d="m6 30 10-10 8 7 8-12 10 15" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/>
-        </svg>
-        <span>Image forthcoming</span>
-      </div>
-      {% endif %}
-    </div>
     <div class="paper-details">
       <h3 id="{{ paper.id }}-title"><a href="{{ paper.url | escape }}">{{ paper.title | escape }}</a></h3>
       <div class="paper-authors">{{ paper.authors | markdownify }}</div>
-      <p class="paper-venue"><em>{{ paper.venue | escape }}</em>, {{ paper.year }}{% if paper.preprint %} <span class="preprint">· Preprint</span>{% endif %}</p>
-      <p class="paper-links"><a href="{{ paper.url | escape }}">paper</a></p>
+      <div class="paper-meta">
+        <p class="paper-venue"><em>{{ paper.venue | escape }}</em>, {{ paper.year }}{% if paper.preprint %} <span class="preprint">· Preprint</span>{% endif %}</p>
+        <span class="meta-divider" aria-hidden="true">/</span>
+        <a href="{{ paper.url | escape }}" aria-label="Read {{ paper.title | escape }}">Paper</a>
+      </div>
       {% if paper.summary %}<p class="paper-summary">{{ paper.summary | escape }}</p>{% endif %}
     </div>
   </article>
