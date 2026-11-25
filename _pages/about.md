@@ -12,8 +12,8 @@ redirect_from:
 <header class="profile">
   <div class="profile-copy">
     <h1>William Yang Xu</h1>
-    <p>I am a member of technical staff at a stealth AI startup working on agentic systems. I study how learning systems make decisions under uncertainty, and how to evaluate them reliably.</p>
-    <p>In 2026, I defended my PhD in Industrial Engineering at <a href="https://engineering.purdue.edu/IE">Purdue University</a>, advised by <a href="https://web.ics.purdue.edu/~vaneet/">Vaneet Aggarwal</a>.</p>
+    <p>I work on agentic systems as a Member of Technical Staff at a stealth AI startup. My research explores how learning systems make decisions under uncertainty and how to evaluate them reliably.</p>
+    <p>In 2026, I defended my PhD in Industrial Engineering at <a href="https://engineering.purdue.edu/IE">Purdue University</a>, where I was advised by <a href="https://web.ics.purdue.edu/~vaneet/">Vaneet Aggarwal</a>.</p>
     {% include research-links.html %}
   </div>
   <div class="profile-photo">
