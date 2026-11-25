@@ -23,7 +23,7 @@ redirect_from:
 
 <section aria-labelledby="research-heading" id="research">
   <h2 id="research-heading">Research</h2>
-  <p class="research-intro">My research focuses on reinforcement learning, decision-making in stochastic systems, and reliable evaluation of learning-based agents. I am also interested in robotic applications.</p>
+  <p class="research-intro">My PhD thesis focused on performance evaluation in average-reward Markov decision processes (MDPs) beyond standard assumptions. My research spans reinforcement learning, LLM evaluation, continual learning, and stochastic approximation.</p>
   <p class="contribution-note">* denotes equal contribution.</p>
   {% include research-list.html %}
 </section>
