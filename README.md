@@ -3,7 +3,7 @@
 The homepage uses a compact research layout inspired by [Jon Barron's homepage](https://jonbarron.info/), within the existing Jekyll site.
 
 - Edit the introduction in `_pages/about.md` and the short biography in `_pages/bio.md`.
-- Edit publications in `_data/papers.yml`; both the homepage and `/publications/` use this list in its stored order. Summaries are short topic descriptions, not abstracts.
+- Edit publications in `_data/papers.yml`; both the homepage and `/publications/` show Preprints followed by Publications, each sorted by year from newest to oldest. Entries within a year retain their stored order because exact publication dates are not recorded. Summaries are short topic descriptions, not abstracts.
 - Publications use a text-only layout with authors, venue, year, a paper link, and a short description.
 - Profile links live in `_includes/research-links.html`. The CV link currently uses the existing `files/William_Yang_Xu_resume.pdf`.
 - Styles live in `assets/css/research.css`. The layout is `_layouts/research.html`.

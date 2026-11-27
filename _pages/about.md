@@ -21,9 +21,14 @@ redirect_from:
   </div>
 </header>
 
+<blockquote class="personal-quote">
+  <p>Trust God from the bottom of your heart; don't try to figure out everything on your own. Listen for God's voice in everything you do, everywhere you go; he's the one who will keep you on track.</p>
+  <cite>Proverbs 3:5–6 MSG</cite>
+</blockquote>
+
 <section aria-labelledby="research-heading" id="research">
   <h2 id="research-heading">Research</h2>
-  <p class="research-intro">My PhD thesis focused on performance evaluation in average-reward Markov decision processes (MDPs) beyond standard assumptions. My research spans reinforcement learning, LLM evaluation, continual learning, and stochastic approximation.</p>
+  <p class="research-intro">My PhD thesis focused on performance evaluation in average-reward Markov decision processes (MDPs) beyond standard assumptions. My research spans reinforcement learning, LLM evaluation, continual learning, and stochastic approximation. Please feel free to get in touch if we share interests.</p>
   <p class="contribution-note">* denotes equal contribution.</p>
   {% include research-list.html %}
 </section>

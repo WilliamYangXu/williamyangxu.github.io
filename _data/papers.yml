@@ -1,4 +1,5 @@
-# Publication order is intentional. Entries use a text-only layout.
+# Entries are grouped into preprints and publications, newest year first.
+# Within the same year, the order below is preserved.
 ---
 - id: carve
   title: 'CARVE: Breaking Data Barriers in Chip Placement by Harnessing Reusable Expertise'

@@ -1,8 +1,23 @@
 <div class="research-list">
-  {% for paper in site.data.papers %}
+  {% assign sections = 'Preprints,Publications' | split: ',' %}
+  {% assign section_heading = include.heading | default: 'h3' %}
+  {% assign paper_heading = include.paper_heading | default: 'h4' %}
+  {% for section in sections %}
+    {% if section == 'Preprints' %}
+      {% assign papers = site.data.papers | where: 'preprint', true %}
+    {% else %}
+      {% assign papers = site.data.papers | where: 'preprint', false %}
+    {% endif %}
+    {% assign years = papers | group_by: 'year' | sort: 'name' | reverse %}
+    {% assign section_id = section | downcase %}
+    {% if papers.size > 0 %}
+  <section class="research-group" aria-labelledby="{{ section_id }}-heading">
+    <{{ section_heading }} class="research-group-title" id="{{ section_id }}-heading">{{ section }}</{{ section_heading }}>
+    {% for year in years %}
+      {% for paper in year.items %}
   <article class="paper" id="{{ paper.id }}" aria-labelledby="{{ paper.id }}-title">
     <div class="paper-details">
-      <h3 id="{{ paper.id }}-title"><a href="{{ paper.url | escape }}">{{ paper.title | escape }}</a></h3>
+      <{{ paper_heading }} id="{{ paper.id }}-title"><a href="{{ paper.url | escape }}">{{ paper.title | escape }}</a></{{ paper_heading }}>
       <div class="paper-authors">{{ paper.authors | markdownify }}</div>
       <div class="paper-meta">
         <p class="paper-venue"><em>{{ paper.venue | escape }}</em>, {{ paper.year }}{% if paper.preprint %} <span class="preprint">· Preprint</span>{% endif %}</p>
@@ -12,5 +27,9 @@
       {% if paper.summary %}<p class="paper-summary">{{ paper.summary | escape }}</p>{% endif %}
     </div>
   </article>
+      {% endfor %}
+    {% endfor %}
+  </section>
+    {% endif %}
   {% endfor %}
 </div>
